@@ -1,0 +1,24 @@
+{
+  "name": "rqg",
+  "version": "0.0.1",
+  "description": "A test project (random quote generator)",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d . -b build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sroohani/rqg.git"
+  },
+  "keywords": [],
+  "author": "Shahram Roohani",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sroohani/rqg/issues"
+  },
+  "homepage": "https://github.com/sroohani/rqg#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
